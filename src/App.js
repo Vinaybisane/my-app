@@ -1,12 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
+import Sub from './component/Sub/Sub';
+import Add from './component/Add/Add';
 
 function App() {
   return (
     <div>
       <h2>Vinay bisane</h2>
       <h2> 4th commit</h2>
+      
       <h1>table 1</h1>
+      <Add></Add>
+      <Sub />
    <table>
     <tr>
       <th>id</th>
