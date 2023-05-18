@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      <h1>table</h1>
+      <h1>table 1</h1>
    <table>
     <tr>
       <th>id</th>
