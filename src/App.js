@@ -8,6 +8,7 @@ function App() {
     <div>
       <h2>Vinay bisane</h2>
       <h2> 4th commit</h2>
+      <h3>achal kharabe</h3>
       
       <h1>table 1</h1>
       <Add></Add>
@@ -15,7 +16,7 @@ function App() {
    <table>
     <tr>
       <th>id</th>
-      <th>name
+      <th>name</th>
       <th>location</th>
     </tr>
     <tr>
